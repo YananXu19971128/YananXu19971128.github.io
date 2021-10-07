@@ -8,7 +8,7 @@ body{
 }
 
 .header{
-    background: url("../img/bridge.jpg") no-repeat;
+    background: url("bridge.jpg") no-repeat;
     width: 90%;
     height: 1200px;
     margin: 0 auto;
